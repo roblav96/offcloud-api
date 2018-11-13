@@ -94,7 +94,7 @@ When a request cannot be processed, API will return error message in the JSON an
 To add an URL for cloud downloading, you can make a POST call to the following URL with the available variables described below:
 
 ```
-https://offcloud.com/api/coud?key=[api_key]
+https://offcloud.com/api/cloud?key=[api_key]
 ```
 
 * url: URL of downloaded resource
